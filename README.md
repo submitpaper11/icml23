@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <img width="260" height="350" src="iig_vit_sample.png">
-   <img width="260" height="350" src="iig_cnn_sample.png">
+  <img width="260" height="350" src="iig_vit_sample.png" alt="ViT" title="ViT">
+   <img width="260" height="350" src="iig_cnn_sample.png" alt="CNN" title="CNN">
 </p>
 
 ## Introduction
