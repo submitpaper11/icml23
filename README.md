@@ -2,13 +2,10 @@
 # PyTorch Implementation of Iterated Integrated Gradients
 
 
-<p align="left">
+<p align="center">
   <img width="260" height="350" src="iig_vit_sample.png">
+   <img width="260" height="350" src="iig_cnn_sample.png">
 </p>
-<p align="right">
-  <img width="260" height="350" src="iig_cnn_sample.png">
-</p>
-
 
 ## Introduction
 This is the official PyTorch implementation of the Iterated Integrated Gradients (IIG) method.
